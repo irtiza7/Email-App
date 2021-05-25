@@ -13,5 +13,5 @@ A simple terminal-based app to send emails.
 * Download main.py source-code file and open terminal in the folder where main.py is downloaded. 
 * Give the path of file, you want to send as attachment, in source-code file.
 
-![image](https://user-images.githubusercontent.com/66883048/119439804-8e6b0d80-bd3c-11eb-94c3-1a5f98b13c30.png | height=100px, width=100px)
+![image](https://user-images.githubusercontent.com/66883048/119439804-8e6b0d80-bd3c-11eb-94c3-1a5f98b13c30.png | height=100px)
 
