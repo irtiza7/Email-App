@@ -8,6 +8,5 @@ A simple terminal-based app to send emails.
 
 ### How to run?
 * You need an Email account. Create one [here](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp).
-* You need to turn on Less Secure App Access. Do it [here](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OWLqEhTqPwYjmS4YE2FBe9naO1iCdPvakG6HJb8q00Uj9cXbV0yIJxfVOk0G5AGYu8lYGEobh-d9ueLma_GcU4CijQyg)
-![image](https://user-images.githubusercontent.com/66883048/119439162-40093f00-bd3b-11eb-835e-387d8177dbcb.png)
-
+* You need to turn on Less Secure App Access. Do it [here](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OWLqEhTqPwYjmS4YE2FBe9naO1iCdPvakG6HJb8q00Uj9cXbV0yIJxfVOk0G5AGYu8lYGEobh-d9ueLma_GcU4CijQyg).
+* In case you have Two Factor Authentication turned on, you need an app password. This password will be used to login to your email account. Get one [here](https://myaccount.google.com/apppasswords?rapt=AEjHL4OQR29RypuavkkdJOikpOtmCUw4LerIhWN6FzJ8TNzQAHoB_S-YbN6zMaKL0Sps7qJ35fcDXfOx88_4kfdQNg1GMkflSQ).
