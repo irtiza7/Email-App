@@ -15,4 +15,5 @@ A simple terminal-based app to send emails.
 
 ``` FILE_PATH = r"C:\Users\Irtiza\Projects\Test.pdf" ```
 * Run the app in terminal using...
-``` python3 main.py ```
+
+``` python main.py ```
