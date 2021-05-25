@@ -11,7 +11,8 @@ A simple terminal-based app to send emails.
 * You need to turn on Less Secure App Access. Do it [here](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OWLqEhTqPwYjmS4YE2FBe9naO1iCdPvakG6HJb8q00Uj9cXbV0yIJxfVOk0G5AGYu8lYGEobh-d9ueLma_GcU4CijQyg).
 * In case you have Two Factor Authentication turned on, you need an app password. This password will be used to login to your email account. Get one [here](https://myaccount.google.com/apppasswords?rapt=AEjHL4OQR29RypuavkkdJOikpOtmCUw4LerIhWN6FzJ8TNzQAHoB_S-YbN6zMaKL0Sps7qJ35fcDXfOx88_4kfdQNg1GMkflSQ).
 * Download main.py source-code file and open terminal in the folder where main.py is downloaded. 
-* Give the path of file, you want to send as attachment, in source-code file.
+* Give the path of file, you want to send as attachment, in source-code file. For example...
 
-![image](https://user-images.githubusercontent.com/66883048/119439804-8e6b0d80-bd3c-11eb-94c3-1a5f98b13c30.png | height=100px)
-
+``` FILE_PATH = r"C:\Users\Irtiza\Projects\Test.pdf" ```
+* Run the app in terminal using...
+``` python3 main.py ```
